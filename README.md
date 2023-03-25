@@ -24,7 +24,7 @@ With [babashka](https://github.com/babashka/babashka) installed, copy the `serve
 bbin is a package manager for babashka.
 With [babashka](https://github.com/babashka/babashka) and [bbin](https://github.com/babashka/bbin) installed,
 
-     bbin install io.github.judepayne/serve
+     bbin install https://raw.githubusercontent.com/judepayne/serve/main/serve.clj
 
 
 ## License
