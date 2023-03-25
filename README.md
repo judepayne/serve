@@ -1,5 +1,7 @@
 # Serve
 
+[![bb compatible](https://raw.githubusercontent.com/babashka/babashka/master/logo/badge.svg)](https://babashka.org)
+
 **Babashka script to dynamically serve a file.**
 
 
